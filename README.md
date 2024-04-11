@@ -1,8 +1,10 @@
 # About Me
 
-I'm a student at the Singapore Institute of Technology, majoring in Information Security. 
+I'm a Year 2 student at the Singapore Institute of Technology, majoring in Information Security. 
 I'm passionate about cybersecurity, coding, and learning new technologies. 
 Here, you'll find projects ranging from security tools to software development experiments. 
+
+**Note:** My repositories have been transferred from my school account (`Jczhstudy`) to my current account (`Jonathanczh`). Please update your bookmarks and links to stay connected with my latest work!
 
 ## 🛠 Tech Stack
 
@@ -38,4 +40,3 @@ Here, you'll find projects ranging from security tools to software development e
 - **Email:** [Jonathanczh00@gmail.com](mailto:Jonathanczh00@gmail.com)
 
 Feel free to explore my projects and reach out if you have any questions or collaboration ideas!
-
